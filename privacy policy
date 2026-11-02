@@ -1,0 +1,61 @@
+# Copy Queue — Privacy Policy
+
+**Effective Date:** November 2, 2026
+
+## 1. Introduction
+
+Copy Queue is a desktop productivity application designed to help users save, organize, and retrieve recently copied text through keyboard shortcuts.
+
+Your privacy is important. This policy explains how Copy Queue accesses, uses, and stores information when you use the application.
+
+## 2. Information Accessed
+
+Copy Queue accesses clipboard text when the user activates the designated keyboard shortcut to save copied content.
+
+The application may store:
+- Text selected by the user for saving.
+- The date and time an entry is saved.
+- A source link, when provided or included by the user.
+
+Clipboard information may contain personal or sensitive information depending on what the user copies. Users should avoid saving passwords, financial account information, or other sensitive information.
+
+## 3. Local Data Storage
+
+Saved entries are stored locally on the user's computer in a spreadsheet within the user's CopyQueue folder.
+
+Copy Queue is designed to keep saved clipboard information on the user's device. The application does not intentionally transmit clipboard contents to an external server.
+
+## 4. Information Sharing
+
+Copy Queue does not sell or share saved clipboard information with advertisers or other third parties.
+
+The application does not require users to create an account to use its core functionality.
+
+## 5. User Control and Data Deletion
+
+Users control which copied text they save. Users can review and delete saved entries through the application and manage their locally stored spreadsheet.
+
+Users may also delete the CopyQueue data folder from their computer to remove locally stored application records.
+
+## 6. Data Security
+
+Users are responsible for maintaining appropriate security on their devices and protecting access to locally stored files.
+
+We recommend avoiding the storage of passwords, payment information, or other sensitive personal information in Copy Queue.
+
+## 7. Children's Privacy
+
+Copy Queue is a general-purpose productivity application and is not specifically designed to collect personal information from children.
+
+## 8. Changes to This Policy
+
+This Privacy Policy may be updated when application functionality or data practices change. Updated versions will be made available through the application's published privacy policy webpage.
+
+## 9. Contact Information
+
+For questions about this Privacy Policy or Copy Queue, contact:
+
+**Application:** Copy Queue  
+**Developer:** Tya Barnes  
+**Support Email:** [Insert your support email address]
+
